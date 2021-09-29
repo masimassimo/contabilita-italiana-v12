@@ -37,3 +37,8 @@
 	path = OCA/intrastat-extrastat
 	url = git@github.com:OCA/intrastat-extrastat.git
 	branch = 12.0
+
+[submodule "OCA/pos"]
+	path = OCA/pos
+	url = git@github.com:OCA/pos.git
+	branch = 12.0
